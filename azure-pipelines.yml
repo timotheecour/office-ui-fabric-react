@@ -1,6 +1,7 @@
 pr:
   - master
 
+
 trigger:
   - master
 
